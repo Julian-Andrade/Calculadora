@@ -1,6 +1,6 @@
 <h2 align="center">
   <img width="200px" src="https://uploaddeimagens.com.br/images/004/054/563/original/julianandrade.png?1665240664"/>
-  <p>Login e Registro</p>
+  <p>Calculator</p>
 </h2>
 
 ***:clipboard: Sobre o Projeto \ About this project***
